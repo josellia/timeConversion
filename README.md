@@ -11,3 +11,5 @@ minutes_to_seconds(minute) recebe valor em minutos e retorna segundos;
 seconds_to_minutes(second) recebe valor em segundos e retorna minutos;
 
  seconds_to_hours(second) recebe valor em segundos e retorna horas
+ 
+ Para usa-lo basta colocar na pasta do projeto, e importar sa seguinte forma: import financialConversion as fc , o fc foi o apelido do módulo(pode ser chamado de qualquer coisa).
